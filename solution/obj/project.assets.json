@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/viktoriaklimaceva/.nuget/packages/": {}
+    "C:\\Users\\ameli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/solution.csproj",
+      "projectUniqueName": "C:\\Users\\ameli\\Desktop\\Itog\\solution\\solution.csproj",
       "projectName": "solution",
-      "projectPath": "/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/solution.csproj",
-      "packagesPath": "/Users/viktoriaklimaceva/.nuget/packages/",
-      "outputPath": "/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/",
+      "projectPath": "C:\\Users\\ameli\\Desktop\\Itog\\solution\\solution.csproj",
+      "packagesPath": "C:\\Users\\ameli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ameli\\Desktop\\Itog\\solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/viktoriaklimaceva/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ameli\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
